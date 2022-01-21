@@ -5,7 +5,7 @@ class FlightImageAsset extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    AssetImage assetImage = const AssetImage("images/Me.png");
+    AssetImage assetImage = const AssetImage("images/Krit_1848.png");
     Image image = Image(
         image: assetImage,
         width: 500,
